@@ -1,0 +1,20 @@
+.tabela{
+    text-align: center;
+}
+.tabela2{
+    display: flex;
+     justify-content: center;
+}
+table{
+    border: 2px black solid;
+}
+td{
+    border: 2px black solid;
+}
+body{
+    background-color: lightblue;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}

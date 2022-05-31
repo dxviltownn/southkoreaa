@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-color: lightblue;
+}
+p{
+    text-align: center;
+}
+table{
+    display: flex;
+    justify-content: center;
+}

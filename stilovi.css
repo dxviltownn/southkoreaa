@@ -1,0 +1,12 @@
+body{
+    background-color: lightblue;
+}
+p{
+    text-size-adjust: 6px;
+    font-family: sans-serif;
+    background-color: lightskyblue;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
